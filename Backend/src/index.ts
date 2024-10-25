@@ -5,7 +5,7 @@ import { router } from "./routes/router";
 import cors from "cors";
 
 const corsOptions = {
-  origin: "http://localhost:5173", // Your frontend URL
+  origin: "https://ribha-pandey-interiors.vercel.app/", // Your frontend URL
   methods: ["GET", "POST"],
   credentials: true, // Allow credentials (cookies) to be sent
   allowedHeaders: ["Content-Type", "Authorization"],
