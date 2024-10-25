@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/config/database.ts","./src/config/nodemailer.ts","./src/controllers/contactcontroller.ts","./src/models/contactmodel.ts","./src/routes/router.ts","./src/types/contact.types.ts","./src/types/custom.d.ts","./src/utils/mailsender.ts"],"version":"5.6.2"}
